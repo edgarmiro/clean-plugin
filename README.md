@@ -1,7 +1,9 @@
 # clean-plugin
-Create the Clean Architecture directory structure in your projects
+Create the Clean Architecture directory structure in your projects.
+[https://plugins.jetbrains.com/plugin/10175-clean-architecture-plugin](https://plugins.jetbrains.com/plugin/10175-clean-architecture-plugin)
 
-![Clean Architecture](https://8thlight.com/blog/assets/posts/2012-08-13-the-clean-architecture/CleanArchitecture-8d1fe066e8f7fa9c7d8e84c1a6b0e2b74b2c670ff8052828f4a7e73fcbbc698c.jpg "Clean Architecture")
+<img width="772" height="567" alt="CleanArchitecture" src="https://github.com/user-attachments/assets/6a7c4655-125e-4817-8487-ff26546dee78" />
+
 
 # Install
 - IntelliJ IDEA -> Plugins -> Browse repositories
